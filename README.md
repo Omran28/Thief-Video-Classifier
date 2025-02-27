@@ -1,5 +1,13 @@
 # 🎥 Thief Video Classifier 🚨  
 
+## 📌 Table of Contents  
+- [📌 Overview](#-overview)  
+- [🚀 Features](#-features)  
+- [🏗 Model Summary](#-model-summary)  
+- [📊 Performance](#-performance)  
+- [✔️ Classification Report](#-classification-report)  
+- [🛠 Technologies Used](#-technologies-used)  
+
 ## 📌 Overview  
 An **AI-powered video surveillance system** designed to detect **shoplifting in real time** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
 
@@ -21,8 +29,7 @@ An **AI-powered video surveillance system** designed to detect **shoplifting in 
 🔹 **Test Accuracy:** `99.74%`  
 🔹 **No Misclassifications (100% Precision & Recall)**  
 
-✔️ **Classification Report:**  
-
+## ✔️ Classification Report  
 | Class              | Precision | Recall | F1-Score |  
 |--------------------|-----------|--------|----------|  
 | 🟩 **Non-Shoplifters** | `1.00` | `1.00` | `1.00` |  
