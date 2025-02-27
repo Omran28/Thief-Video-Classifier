@@ -32,5 +32,3 @@ An **AI-powered video surveillance system** designed to detect **shoplifting in 
 🔹 **TensorFlow & Keras** – Deep learning framework  
 🔹 **OpenCV** – Video processing  
 🔹 **Scikit-learn** – Model evaluation  
-
-## 🚀 Secure Your Business with AI-Powered Surveillance!  
