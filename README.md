@@ -1,15 +1,15 @@
 # 🎥 Thief Video Classifier 🚨  
 
-## 📌 Table of Contents  
-- [📌 Overview](#-overview)  
+## 📖 Table of Contents  
+- [🔍 Overview](#-overview)  
 - [🚀 Features](#-features)  
 - [🏗 Model Summary](#-model-summary)  
 - [📈 Performance](#-performance)  
-- [✔️ Classification Report](#-classification-report)  
+- [📊 Classification Report](#-classification-report)  
 - [🛠 Technologies Used](#-technologies-used)  
-- [📊 Results](#-results)  
+- [📸 Results](#-results)  
 
-## 📌 Overview  
+## 🔍 Overview  
 An **AI-powered video surveillance system** designed to detect **shoplifting** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
 
 ## 🚀 Features    
@@ -24,12 +24,12 @@ An **AI-powered video surveillance system** designed to detect **shoplifting** u
 🔹 **Batch Normalization & Dropout** – Enhances model stability & generalization  
 🔹 **Fully Connected Layers** – Final classification  
 
-## 📊 Performance  
+## 📈 Performance  
 🔹 **Training Accuracy:** `99.5%`  
 🔹 **Test Accuracy:** `99.74%`  
 🔹 **No Misclassifications (100% Precision & Recall)**  
 
-## ✔️ Classification Report  
+## 📊 Classification Report  
 | Class              | Precision | Recall | F1-Score |  
 |--------------------|-----------|--------|----------|  
 | 🟩 **Non-Shoplifters** | `1.00` | `1.00` | `1.00` |  
@@ -40,7 +40,7 @@ An **AI-powered video surveillance system** designed to detect **shoplifting** u
 🔹 **OpenCV** – Video processing  
 🔹 **Scikit-learn** – Model evaluation  
 
-## 📊 Results  
+## 📸 Results  
 
 ### 🏠 Home Page  
 ![Home](https://github.com/Omran28/Thief-Classifier/blob/main/images/home.png)  
