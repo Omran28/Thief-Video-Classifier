@@ -43,7 +43,7 @@ An **AI-powered video surveillance system** designed to detect **shoplifting** u
 ## 📊 Results  
 
 ### 🏠 Home Page  
-![Home](https://github.com/Omran28/Thief-Classifier/blob/main/images/Home.png)  
+![Home](https://github.com/Omran28/Thief-Classifier/blob/main/images/home.png)  
 
 ### 📂 Upload Video  
 ![Upload Video](https://github.com/Omran28/Thief-Classifier/blob/main/images/Upload%20video.png)  
