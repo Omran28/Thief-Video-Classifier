@@ -11,8 +11,7 @@
 ## 📌 Overview  
 An **AI-powered video surveillance system** designed to detect **shoplifting ** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
 
-## 🚀 Features  
-✅ **Real-time Shoplifting Detection**  
+## 🚀 Features    
 ✅ **Deep Learning Model (CNN + LSTM)**  
 ✅ **3D Convolution for Video Analysis**  
 ✅ **Batch Normalization & Dropout for Stability**  
