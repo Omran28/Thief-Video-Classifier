@@ -49,7 +49,7 @@ An **AI-powered video surveillance system** designed to detect **shoplifting** u
 ![Upload Video](images/upload.png)  
 
 ### 📤 Video Uploaded  
-![Video Uploaded](images/video_uploaded.png)  
+![Video Uploaded](images/video uploaded.png)  
 
 ### 📊 Detection Results  
 ![Results](images/results.png)  
