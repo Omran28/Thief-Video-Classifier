@@ -6,11 +6,11 @@
 - [🏗 Model Summary](#-model-summary)  
 - [📈 Performance](#-performance)  
 - [✔️ Classification Report](#-classification-report)  
-- [🛠 Technologies Used](#-technologies-used)
-- [📊 Results](#-results)
+- [🛠 Technologies Used](#-technologies-used)  
+- [📊 Results](#-results)  
 
 ## 📌 Overview  
-An **AI-powered video surveillance system** designed to detect **shoplifting ** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
+An **AI-powered video surveillance system** designed to detect **shoplifting** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
 
 ## 🚀 Features    
 ✅ **Deep Learning Model (CNN + LSTM)**  
@@ -40,5 +40,17 @@ An **AI-powered video surveillance system** designed to detect **shoplifting ** 
 🔹 **OpenCV** – Video processing  
 🔹 **Scikit-learn** – Model evaluation  
 
-## 📊 Results
+## 📊 Results  
+
+### 🏠 Home Page  
+![Home](https://github.com/Omran28/Thief-Classifier/blob/main/images/Home.png)  
+
+### 📂 Upload Video  
+![Upload Video](https://github.com/Omran28/Thief-Classifier/blob/main/images/Upload%20video.png)  
+
+### 📤 Video Uploaded  
+![Video Uploaded](https://github.com/Omran28/Thief-Classifier/blob/main/images/Video%20uploaded.png)  
+
+### 📊 Detection Results  
+![Results](https://github.com/Omran28/Thief-Classifier/blob/main/images/Results.png)  
 
