@@ -9,7 +9,7 @@
 - [🛠 Technologies Used](#-technologies-used)  
 
 ## 📌 Overview  
-An **AI-powered video surveillance system** designed to detect **shoplifting in real time** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
+An **AI-powered video surveillance system** designed to detect **shoplifting ** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
 
 ## 🚀 Features  
 ✅ **Real-time Shoplifting Detection**  
