@@ -4,9 +4,10 @@
 - [📌 Overview](#-overview)  
 - [🚀 Features](#-features)  
 - [🏗 Model Summary](#-model-summary)  
-- [📊 Performance](#-performance)  
+- [📈 Performance](#-performance)  
 - [✔️ Classification Report](#-classification-report)  
-- [🛠 Technologies Used](#-technologies-used)  
+- [🛠 Technologies Used](#-technologies-used)
+- [📊 Results](#-results)
 
 ## 📌 Overview  
 An **AI-powered video surveillance system** designed to detect **shoplifting ** using **deep learning** and **computer vision**. The model processes video frames to identify potential shoplifters, enhancing security in retail environments.  
@@ -38,3 +39,6 @@ An **AI-powered video surveillance system** designed to detect **shoplifting ** 
 🔹 **TensorFlow & Keras** – Deep learning framework  
 🔹 **OpenCV** – Video processing  
 🔹 **Scikit-learn** – Model evaluation  
+
+## 📊 Results
+
