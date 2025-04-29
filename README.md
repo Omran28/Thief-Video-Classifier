@@ -54,3 +54,4 @@ An **AI-powered video surveillance system** designed to detect **shoplifting** u
 ### 📊 Detection Results  
 ![Results](images/results.png)  
 
+run: python manage.py runserver
